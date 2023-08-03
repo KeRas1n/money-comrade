@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/money-comrade/static/css/main.72adfdfd.css",
-    "main.js": "/money-comrade/static/js/main.aa88471b.js",
+    "main.js": "/money-comrade/static/js/main.94a11033.js",
     "index.html": "/money-comrade/index.html",
     "main.72adfdfd.css.map": "/money-comrade/static/css/main.72adfdfd.css.map",
-    "main.aa88471b.js.map": "/money-comrade/static/js/main.aa88471b.js.map"
+    "main.94a11033.js.map": "/money-comrade/static/js/main.94a11033.js.map"
   },
   "entrypoints": [
     "static/css/main.72adfdfd.css",
-    "static/js/main.aa88471b.js"
+    "static/js/main.94a11033.js"
   ]
 }
