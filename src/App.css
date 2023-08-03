@@ -1,0 +1,11 @@
+.expense-btn{
+    color:red;
+    background-color: #fbfbfb;
+    border-radius: 40px;
+    border:none;
+    z-index: 99;
+    position:fixed; 
+    right:7%;
+    bottom:7%;
+}
+

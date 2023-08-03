@@ -1,0 +1,37 @@
+.transactionList{
+    margin-top: 50px ;
+}
+ul {
+    /*position: absolute;
+    top: 20px;
+    bottom: 20px;
+    left: 20px;
+    right: 20px;*/
+    overflow: scroll;
+    margin-top:50px !important;
+    padding: 0 !important;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    
+    font-size: 18px;
+    font-family: Arial, sans-serif;
+    list-style: none;
+    max-height:700px;
+    
+    
+    -webkit-overflow-scrolling: touch;
+  }
+  
+  li {
+    padding: 10px 20px;
+    
+    border-bottom: 1px solid #ccc;
+    
+    &:last-child {
+      border-bottom: none;
+    }
+    
+    &:nth-child(even) {
+      background: #f8f8f8;
+    }
+  }
