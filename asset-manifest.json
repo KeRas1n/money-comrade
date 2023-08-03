@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/money-comrade/static/css/main.acb5aceb.css",
+    "main.js": "/money-comrade/static/js/main.2f972f58.js",
+    "index.html": "/money-comrade/index.html",
+    "main.acb5aceb.css.map": "/money-comrade/static/css/main.acb5aceb.css.map",
+    "main.2f972f58.js.map": "/money-comrade/static/js/main.2f972f58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acb5aceb.css",
+    "static/js/main.2f972f58.js"
+  ]
+}
